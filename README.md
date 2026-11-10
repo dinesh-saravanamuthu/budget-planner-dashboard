@@ -1,2 +1,1 @@
-# budget-planner-dashboard
-budget-planner-dashboard
+# Budget Planner\n\n## Run\nExtract the ZIP and open index.html in a modern browser. Add income and expense transactions, select a month, view category spending, and set a savings goal.\n\n## Features\n- Monthly income, expense and balance totals\n- Category-wise bar chart using Canvas\n- Transaction deletion and month filtering\n- Savings goal progress indicator\n- Browser localStorage persistence\n\n## Technology and limitations\nHTML5, CSS3, vanilla JavaScript, Canvas API and localStorage. This is a local learning prototype, not a banking or financial-advice service. Data is not synced across devices.
